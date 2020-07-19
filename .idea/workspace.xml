@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bdada64-3691-4670-acbb-c1325fef0034" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2222222222222222222222223323.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme日常开发规范" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pycharm_project_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pycharm_project_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/232323.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/pipelines.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +83,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="232323" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pycharm_project_6" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/232323.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm_project_6" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,6 +130,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.232323" />
         <item itemvalue="Python.2222222222222222222222223323" />
       </list>
     </recent_temporary>
@@ -126,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595127733767</updated>
-      <workItem from="1595127735007" duration="4151000" />
+      <workItem from="1595127735007" duration="5228000" />
     </task>
     <servers />
   </component>
@@ -138,22 +169,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="3" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1595127858771" />
-    <state width="1237" height="272" key="GridCell.Tab.0.bottom" timestamp="1595132085057">
+    <state x="391" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595132604279">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="272" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595132085057" />
-    <state width="1237" height="272" key="GridCell.Tab.0.center" timestamp="1595132085057">
+    <state x="391" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595132604279" />
+    <state width="1237" height="187" key="GridCell.Tab.0.bottom" timestamp="1595132940559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="272" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595132085057" />
-    <state width="1237" height="272" key="GridCell.Tab.0.left" timestamp="1595132085057">
+    <state width="1237" height="187" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595132940559" />
+    <state width="1237" height="187" key="GridCell.Tab.0.center" timestamp="1595132940559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="272" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595132085057" />
-    <state width="1237" height="272" key="GridCell.Tab.0.right" timestamp="1595132085057">
+    <state width="1237" height="187" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1595132940559" />
+    <state width="1237" height="187" key="GridCell.Tab.0.left" timestamp="1595132940559">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="272" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595132085057" />
+    <state width="1237" height="187" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1595132940559" />
+    <state width="1237" height="187" key="GridCell.Tab.0.right" timestamp="1595132940559">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1595132940559" />
     <state width="1237" height="255" key="GridCell.Tab.1.bottom" timestamp="1595130487909">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -172,7 +207,8 @@
     <state width="1237" height="255" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595130487909" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pycharm_project_6$main.coverage" NAME="main Coverage Results" MODIFIED="1595132085049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/pycharm_project_6$main.coverage" NAME="main Coverage Results" MODIFIED="1595132940553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/pycharm_project_6$232323.coverage" NAME="232323 Coverage Results" MODIFIED="1595132757987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$2222222222222222222222223323.coverage" NAME="2222222222222222222222223323 Coverage Results" MODIFIED="1595129509458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -8,19 +8,22 @@ import os
 import json
 class TutorialPipeline(object):
     def process_item(self, item, spider):
-        content=json.dumps(item['neirong'],ensure_ascii=False)
+        content=json.dumps(item['neirong'],ensure_ascii=False)# 貌似这行没用1
         print("开始写")
         if not os.path.exists('output'):
             os.mkdir('output')
         item['title']=item['title'].replace(r'/','_')
         item['title']=item['title'].replace(r':','_')
         name='output/'+item['title']+'.txt'
+        print(type(item['neirong']),6666666666666666666666666666666666666666666)
         print(name,9348938493849384)
         # 尝试用2种编码来写文件
+        content=item['neirong']
         try:
 
             # ----------duqu  文件表.
             with open(name,'w',encoding='utf-8') as f :
+                 print("xieruneirong",content)
                  f.write(content)
 
             # 文件表里面写.  一个写,其他都卡主.
