@@ -25,7 +25,9 @@ import os,sys
 # os.system("scrapy crawl dmoz5")  # 爬取 http://www.171english.cn/news/
 # os.system("scrapy crawl dmoz6")  # 爬取 http://www.for68.com/eyu/yuedu/
 # os.system("scrapy crawl dmoz7")  # 爬取 http://ru.tingroom.com/yuedu/zedzyd/
-os.system("scrapy crawl dmoz8")  # 爬取 https://ru.hujiang.com/new/yuedu/
+#os.system("scrapy crawl dmoz8")  # 爬取 https://ru.hujiang.com/new/yuedu/
+# os.system("scrapy crawl dmoz9")  # 爬取 https://jp.hjenglish.com/new/tag/中日双语/
+os.system("scrapy crawl dmoz10")  # 爬取 https://jp.hjenglish.com/new/tag/中日双语/
 
 
 
