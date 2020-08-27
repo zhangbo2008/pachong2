@@ -1,0 +1,44 @@
+新冠疫情暴发以来，很多人都不敢乘坐飞机，因为他们认为机舱空间小，感染新冠肺炎的风险更高。然而，新研究发现，飞机上感染新冠肺炎的几率其实很小，旅客可以安心乘坐飞机。
+ 
+ 
+Sitting squeezed between a number of strangers on board an aircraft might feel like a risky position during these uncertain times.
+在这种不确定的时期，乘飞机时坐在一堆陌生人中间可能感觉风险很大。
+But according to some experts who point to the very few documented cases of in-flight transmission, the chances of catching Covid-19 while on board a flight are actually relatively slim.
+但是一些专家指出，新冠病毒在机舱内传播的病例记载非常少，实际上在乘飞机时感染新冠肺炎的几率相对较小。
+Fear of flying during the pandemic has drastically reduced global air traffic, which has also been restricted due to border closures. If new scientific claims are borne out, the perceived heightened risk of boarding an airplane could be unfounded.
+疫情期间人们对飞行的担心令全球空中交通流量剧减，航空飞行也因为边境封锁而受到限制。如果新的科学说法得到证实，乘机感染风险高的观念或许就是没有根据的。
+In one case, about 328 passengers and crew members were tested for coronavirus after it was learned that a March 31 flight from the US to Taiwan had been carrying 12 passengers who were symptomatic at the time. However, all the other passengers tested negative, as did the crew members.
+在一个案例中，在得知3月31日从美国飞往中国台湾的航班上搭载了12名有新冠肺炎症状的乘客后，相关部门对机上约328名乘客和机组人员进行了新冠病毒检测。但是，其他所有乘客的检测均呈阴性，机组人员也是如此。
+And while there have certainly been cases of infected passengers passing the virus on to an airplane's crew or fellow travelers in recent months, the transmission rates are low.
+诚然，近几个月肯定有感染新冠病毒的乘客传染给机上的乘务人员或其他乘客的情况发生，但是传播几率比较低。
+A study recently published in medical journal JAMA Network Open found evidence of the possible spread of coronavirus during a four-hour flight from Tel Aviv to Frankfurt in March.
+最近发表在医学期刊《美国医学协会网络公开杂志》上的一项研究发现了三月份从特拉维夫前往法兰克福的四小时航空飞行期间可能发生新冠病毒传播的证据。
+Two passengers developed infections after flying with a group of tourists who had come into contact with an infected hotel manager and also became infected, according to researchers from the Institute for Medical Virology at Goethe University in Frankfurt.
+法兰克福歌德大学医学病毒学研究所的研究人员称，两名乘客在和一群游客同乘一航班后感染了新冠病毒，这群游客是在和一位感染了病毒的酒店经理接触后感染的。
+The two who may have been infected were seated at the back of the aircraft, directly across the aisle from seven passengers who had unknowingly picked up the virus.
+这两位可能在飞行途中被感染的乘客坐在飞机靠尾部的座位，正对着过道那头七位被感染却不知情的乘客。
+An earlier flight from the UK to Vietnam on March 2, in which one passenger seemingly spread the virus to around 14 other passengers, as well as a crew member, is so far believed to be the only known on-board transmission to multiple people.
+此前，3月2日从英国飞往越南的一个航班上，一名乘客似乎将病毒传染给了14名其他乘客和一名乘务员，这是迄今为止已知的唯一一个机上一人传染多人的案例。
+One explanation for the apparently low risk level is that the air in modern aircraft cabins is replaced with new fresh air every two to three minutes, and most planes are fitted with air filters designed to trap 99.99% of particles.
+飞机上传染风险明显较低的一个解释是，现代机舱中的空气每2到3分钟就会换一次，多数飞机都配备了空气过滤机，可以过滤掉99.99%的颗粒物。
+Meanwhile, various new protocols have been implemented, such as face-coverings for both passengers and crew, which is mandatory on most airlines, temperature screenings, as well as more intensive cabin cleaning and limited movement in the cabin during flight.
+与此同时，航空公司实行了各种新规定，比如乘客和机组人员都要遮盖面部（这在多数航空公司都是强制性规定）、进行体温筛查以及加强机舱清洁和飞行途中限制机舱内活动。
+Arnold Barnett, a professor of statistics at the Massachusetts Institute of Technology's Sloan School of Management, tried to quantify the odds of becoming infected with the virus while on board a short flight in a recent study that looked at the benefits of the empty middle seat policy.
+在最近的一项针对中间座位空置政策成效的研究中，麻省理工学院斯隆管理学院的统计学教授阿诺德·巴奈特试图量化短程飞行期间感染病毒的几率。
+According to his findings, based on short haul flights in the US on aircraft configured with three seats on either side of the aisle, such as the Airbus 320 and the Boeing 737 -- and assuming everyone is wearing a mask -- the risk of catching the virus on a full flight is just 1 in 4,300. Those odds fall to 1 in 7,700 if the middle seat is vacant.
+根据巴奈特的研究结果，基于在过道两边配备了三个座位的飞机（比如空客320和波音737）的美国短途航班数据，假定每个人都佩戴了口罩，那么在满员航班上感染新冠病毒的几率为4300分之一。如果中间座位空置，感染几率则降到了7700分之一。
+These figures are specifically for two-hour flights within the United States, the country currently with the highest number of Covid-19 cases in the world.
+这些数据专门适用于美国境内的两小时航班，美国目前的新冠肺炎确诊病例是全世界最高的。
+The odds will be lower for flights taken in parts of the globe with few cases and higher for long haul flights, he says.
+巴奈特表示，在病例少的世界其他地区机上感染几率会更低，长途航班的感染几率则会更高。
+Barnett goes on to state that there isn't much of a difference in terms of risk between passengers sitting in an aisle seat on a full flight and those in the window seat.
+巴奈特还表示，满员航班上坐在靠过道座位和坐在靠窗座位的乘客感染风险没多大差别。
+However, the chances of becoming infected are ever so slightly higher for those in aisle seats, because they simply have more people around them.
+不过，坐在靠过道座位的乘客感染几率会略高，因为他们周围的人更多。
+"You're endangered by the people sitting next to you in the same row," he says. "And to a lesser extent, the people in the row behind and the row ahead.
+巴奈特称：“和你坐同排的人对你威胁更大，坐前后排的人对你威胁更小。”
+"Statistically, the window seat is a little safer than the middle seat or the aisle seat on a plane that's full. But it's not a big difference."
+“从统计数据来看，在满员航班上坐靠窗座位比坐中间座位或靠过道座位稍微更安全一点。但是差别不大。”
+ 
+英文来源：美国有线电视新闻网
+翻译&amp;编辑：丹妮

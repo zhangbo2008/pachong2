@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bdada64-3691-4670-acbb-c1325fef0034" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/pycharm_project_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/爬虫最新版.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85014.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85016.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85169.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85170.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85171.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85172.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-85173.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-96883.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-96884.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-96886.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-96887.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-96888.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-98491.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-98494.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-98495.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-98496.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/https___www.tantuw.com__riyu_detail-98497.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305088_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305228_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305302_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305419_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305421_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305423_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305425_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305427_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305564_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305965_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1305972_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306065_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306116_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306252_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306371_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306607_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306747_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1306764_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1307239_.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/output/https___ru.hujiang.com_new_p1307271_.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +160,7 @@
       <workItem from="1595127735007" duration="5298000" />
       <workItem from="1595133170371" duration="256000" />
       <workItem from="1595671453939" duration="29000" />
-      <workItem from="1598508349045" duration="261000" />
+      <workItem from="1598508349045" duration="2565000" />
     </task>
     <servers />
   </component>
@@ -213,22 +176,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="391" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595132604279" />
-    <state width="1237" height="187" key="GridCell.Tab.0.bottom" timestamp="1598508528090">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1598510868867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="187" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598508528090" />
-    <state width="1237" height="187" key="GridCell.Tab.0.center" timestamp="1598508528090">
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598510868867" />
+    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1598510868867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="187" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598508528090" />
-    <state width="1237" height="187" key="GridCell.Tab.0.left" timestamp="1598508528090">
+    <state width="1237" height="181" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598510868867" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1598510868867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="187" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598508528090" />
-    <state width="1237" height="187" key="GridCell.Tab.0.right" timestamp="1598508528090">
+    <state width="1237" height="181" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598510868867" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1598510868867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="187" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598508528090" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598510868867" />
     <state width="1237" height="255" key="GridCell.Tab.1.bottom" timestamp="1595133041074">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -247,7 +210,7 @@
     <state width="1237" height="255" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595133041074" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1598508528083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1598510868861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$main.coverage" NAME="main Coverage Results" MODIFIED="1595132940553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$232323.coverage" NAME="232323 Coverage Results" MODIFIED="1595132757987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$2222222222222222222222223323.coverage" NAME="2222222222222222222222223323 Coverage Results" MODIFIED="1595129509458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
