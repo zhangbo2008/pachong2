@@ -29,7 +29,16 @@ import os,sys
 # os.system("scrapy crawl dmoz9")  # 爬取 https://jp.hjenglish.com/new/tag/中日双语/
 # os.system("scrapy crawl dmoz10")  # 爬取 https://jp.hjenglish.com/new/tag/中日双语/
 # os.system("scrapy crawl dmoz11")  # 爬取 https://language.chinadaily.com.cn/news_bilingual/page_1.html
-os.system("scrapy crawl dmoz12")  # 爬取 http://www.i21st.cn/story/index_1.html
+# os.system("scrapy crawl dmoz12")  # 爬取 http://www.i21st.cn/story/index_1.html
+# os.system("scrapy crawl dmoz13")  # 爬取 http://www.i21st.cn/story/index_1.html
+# os.system("scrapy crawl dmoz14")  # 爬取 http://www.i21st.cn/story/index_1.html
+# os.system("scrapy crawl dmoz15")  # 爬取 http://www.i21st.cn/story/index_1.html
+# os.system("scrapy crawl dmoz16")  # 爬取 http://www.qqenglish.com/
+# os.system("scrapy crawl dmoz17")  # 爬取 http://www.qqenglish.com/
+# os.system("scrapy crawl dmoz26")  # 爬取 http://www.qqenglish.com/
+# os.system("scrapy crawl dmoz27")  # 爬取 http://www.qqenglish.com/
+# os.system("scrapy crawl dmoz28")  # 爬取 http://www.qqenglish.com/
+os.system("scrapy crawl dmoz29")  # 爬取 http://www.qqenglish.com/
 
 
 

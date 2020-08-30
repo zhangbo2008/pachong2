@@ -2,11 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bdada64-3691-4670-acbb-c1325fef0034" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/222222222222222222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo34.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1111111.py" beforeDir="false" afterPath="$PROJECT_DIR$/1111111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/spiders/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/spiders/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/spiders/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/spiders/demo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial/spiders/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/spiders/demo5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +78,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/tutorial/spiders" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -63,73 +87,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.main">
-    <configuration name="1111111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="爬虫最新版" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1111111.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2222222222222222222222223323" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="爬虫最新版" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2222222222222222222222223323.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="232323" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="爬虫最新版" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/232323.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="爬虫最新版" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +100,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/spiders/demo12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/spiders/demo13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫最新版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/spiders/demo15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫最新版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/spiders/demo17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="爬虫最新版" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tutorial/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial/spiders/demo29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,10 +200,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.1111111" />
-        <item itemvalue="Python.demo12" />
-        <item itemvalue="Python.232323" />
-        <item itemvalue="Python.2222222222222222222222223323" />
+        <item itemvalue="Python.demo29" />
+        <item itemvalue="Python.demo17" />
+        <item itemvalue="Python.demo15" />
+        <item itemvalue="Python.demo13" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +233,7 @@
       <workItem from="1595133170371" duration="256000" />
       <workItem from="1595671453939" duration="29000" />
       <workItem from="1598508349045" duration="3076000" />
-      <workItem from="1598781584036" duration="4256000" />
+      <workItem from="1598781584036" duration="11141000" />
     </task>
     <servers />
   </component>
@@ -225,45 +249,70 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="391" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595132604279" />
-    <state width="1237" height="209" key="GridCell.Tab.0.bottom" timestamp="1598788046965">
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1598794809586">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598788046965" />
-    <state width="1237" height="209" key="GridCell.Tab.0.center" timestamp="1598788046965">
+    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
+    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1598794809586">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598788046965" />
-    <state width="1237" height="209" key="GridCell.Tab.0.left" timestamp="1598788046965">
+    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
+    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1598794809586">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598788046965" />
-    <state width="1237" height="209" key="GridCell.Tab.0.right" timestamp="1598788046965">
+    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
+    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1598794809586">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="209" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598788046965" />
-    <state width="1237" height="255" key="GridCell.Tab.1.bottom" timestamp="1595133041074">
+    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
+    <state width="1237" height="255" key="GridCell.Tab.1.bottom" timestamp="1598792704077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="255" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1595133041074" />
-    <state width="1237" height="255" key="GridCell.Tab.1.center" timestamp="1595133041074">
+    <state width="1237" height="255" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598792704077" />
+    <state width="1237" height="255" key="GridCell.Tab.1.center" timestamp="1598792704077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="255" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1595133041074" />
-    <state width="1237" height="255" key="GridCell.Tab.1.left" timestamp="1595133041074">
+    <state width="1237" height="255" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598792704077" />
+    <state width="1237" height="255" key="GridCell.Tab.1.left" timestamp="1598792704077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="255" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1595133041074" />
-    <state width="1237" height="255" key="GridCell.Tab.1.right" timestamp="1595133041074">
+    <state width="1237" height="255" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598792704077" />
+    <state width="1237" height="255" key="GridCell.Tab.1.right" timestamp="1598792704077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="255" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1595133041074" />
+    <state width="1237" height="255" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598792704077" />
+    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1598789085213">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1598789085213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tutorial/spiders/demo17.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="__file__.split('/')[-1][-3:]" />
+        <watch expression="num" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1598788046957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1598794809579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$main.coverage" NAME="main Coverage Results" MODIFIED="1595132940553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/$1111111.coverage" NAME="1111111 Coverage Results" MODIFIED="1598785097969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1598790512087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/$demo13.coverage" NAME="demo13 Coverage Results" MODIFIED="1598788616402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/$demo17.coverage" NAME="demo17 Coverage Results" MODIFIED="1598792673463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$232323.coverage" NAME="232323 Coverage Results" MODIFIED="1595132757987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$demo12.coverage" NAME="demo12 Coverage Results" MODIFIED="1598783678414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$2222222222222222222222223323.coverage" NAME="2222222222222222222222223323 Coverage Results" MODIFIED="1595129509458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$demo29.coverage" NAME="demo29 Coverage Results" MODIFIED="1598794722891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/spiders" />
   </component>
 </project>

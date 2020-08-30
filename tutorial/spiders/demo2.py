@@ -102,7 +102,7 @@ class DmozSpider2(scrapy.Spider): # 继承Spider类
 
     #成功爬取到下面.
     # 现在是预处理.就是要找到所有的一级网页!!!!!!!!!!! 然后赋值给saveall
-    print(saveall,"打印主网页!!!!!!!!!!!!")
+    # print(saveall,"打印主网页!!!!!!!!!!!!")
     # 提取所有的href
     tmpurl = saveall[-1]
     from .utilsme import driver
