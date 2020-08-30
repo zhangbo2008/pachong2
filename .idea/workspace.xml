@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bdada64-3691-4670-acbb-c1325fef0034" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tutorial/222222222222222222.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial/spiders/demo35.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/spiders/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/spiders/demo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/spiders/demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/spiders/demo4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial/spiders/demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial/spiders/demo5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +208,7 @@
       <workItem from="1595133170371" duration="256000" />
       <workItem from="1595671453939" duration="29000" />
       <workItem from="1598508349045" duration="3076000" />
-      <workItem from="1598781584036" duration="11141000" />
+      <workItem from="1598781584036" duration="11656000" />
     </task>
     <servers />
   </component>
@@ -249,22 +224,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="391" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1595132604279" />
-    <state width="1237" height="208" key="GridCell.Tab.0.bottom" timestamp="1598794809586">
+    <state width="1237" height="93" key="GridCell.Tab.0.bottom" timestamp="1598795340480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
-    <state width="1237" height="208" key="GridCell.Tab.0.center" timestamp="1598794809586">
+    <state width="1237" height="93" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598795340480" />
+    <state width="1237" height="93" key="GridCell.Tab.0.center" timestamp="1598795340480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
-    <state width="1237" height="208" key="GridCell.Tab.0.left" timestamp="1598794809586">
+    <state width="1237" height="93" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598795340480" />
+    <state width="1237" height="93" key="GridCell.Tab.0.left" timestamp="1598795340480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
-    <state width="1237" height="208" key="GridCell.Tab.0.right" timestamp="1598794809586">
+    <state width="1237" height="93" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598795340480" />
+    <state width="1237" height="93" key="GridCell.Tab.0.right" timestamp="1598795340480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="208" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598794809586" />
+    <state width="1237" height="93" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598795340480" />
     <state width="1237" height="255" key="GridCell.Tab.1.bottom" timestamp="1598792704077">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -304,7 +279,7 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1598794809579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
+    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1598795340474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/pycharm_project_6$main.coverage" NAME="main Coverage Results" MODIFIED="1595132940553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial" />
     <SUITE FILE_PATH="coverage/$1111111.coverage" NAME="1111111 Coverage Results" MODIFIED="1598785097969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$demo15.coverage" NAME="demo15 Coverage Results" MODIFIED="1598790512087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorial/spiders" />

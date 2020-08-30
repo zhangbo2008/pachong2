@@ -38,7 +38,7 @@ import os,sys
 # os.system("scrapy crawl dmoz26")  # 爬取 http://www.qqenglish.com/
 # os.system("scrapy crawl dmoz27")  # 爬取 http://www.qqenglish.com/
 # os.system("scrapy crawl dmoz28")  # 爬取 http://www.qqenglish.com/
-os.system("scrapy crawl dmoz29")  # 爬取 http://www.qqenglish.com/
+os.system("scrapy crawl dmoz35")  # 爬取 http://www.qqenglish.com/
 
 
 
