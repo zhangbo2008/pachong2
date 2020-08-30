@@ -28,7 +28,8 @@ import os,sys
 #os.system("scrapy crawl dmoz8")  # 爬取 https://ru.hujiang.com/new/yuedu/
 # os.system("scrapy crawl dmoz9")  # 爬取 https://jp.hjenglish.com/new/tag/中日双语/
 # os.system("scrapy crawl dmoz10")  # 爬取 https://jp.hjenglish.com/new/tag/中日双语/
-os.system("scrapy crawl dmoz11")  # 爬取 https://language.chinadaily.com.cn/news_bilingual/page_1.html
+# os.system("scrapy crawl dmoz11")  # 爬取 https://language.chinadaily.com.cn/news_bilingual/page_1.html
+os.system("scrapy crawl dmoz12")  # 爬取 http://www.i21st.cn/story/index_1.html
 
 
 
